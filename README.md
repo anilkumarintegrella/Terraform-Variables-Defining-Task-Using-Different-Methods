@@ -1,3 +1,7 @@
+To get all the different methods of defining & declaring variables visit all the branches: 
+
+Branches: 
+
 ### Method 1
 
 - Variables declared via seperate `variables.tf` file and defined it by default in same file
